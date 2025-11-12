@@ -38,7 +38,9 @@ https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/L
 
 Developed by: Sayed Hamidullah Fazlly.
 
-M. Sc. Web & Data Science (On-going), Koblenz, Germany
+M. Sc. Web & Data Science (On-going)
+
+University of Koblenz, Germany
 
 Email: 11hamidullah@gmail.com / sayedhamidullah@uni-koblenz.de
 
